@@ -1,3 +1,5 @@
 import { iJogador } from "./interfaces";
 
-const jogadores:iJogador[]=[] 
+const dbJogadores:iJogador[]=[] 
+
+export {dbJogadores}
